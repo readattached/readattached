@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Khai!
+
+🔭 I’m currently working on building my personal portfolio, mainly focused on robotics, control systems, and exploring projects in other fields.
+
+### 🛠️ Languages & Tech Stack
+- **Languages:** C, C++, Python
+- **Robotics & Simulation:** ROS 2, Open-RMF, Gazebo Jetty, RViz2
+- **Tools & Environment:** Docker, Git, Ubuntu
 
 <!--
 **readattached/readattached** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
